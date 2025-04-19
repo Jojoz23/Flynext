@@ -10,3 +10,5 @@ A self signed cert was used here.
 
 ## Authors and acknowledgment
 This project was built by me, Faizan, Mike as a project for CSC309.
+
+AFS API was used for flight data.
