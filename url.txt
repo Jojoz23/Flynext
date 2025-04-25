@@ -1,1 +1,1 @@
-flynextapp.duckdns.org
+https://flynextapp.duckdns.org
