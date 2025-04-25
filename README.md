@@ -4,7 +4,7 @@
 This is a flight/hotel search and booking web application. 
 
 ## Usage
-Here is a deployed link to the project: https://35.223.106.179/. 
+Here is a deployed link to the project: flynextapp.duckdns.org. 
 
 A self signed cert was used here.
 
